@@ -10,7 +10,7 @@ export default function App() {
         <div style={styles.tourWrapper}>
           <iframe
             title="Virtual Walkthrough"
-            src="https://kuula.co/share/collection/7T0sf?logo=1&info=1&fs=1&vr=0&thumbs=1"
+            src="https://kuula.co/share/collection/7T0R5?logo=1&info=1&fs=1&vr=0&thumbs=1"
             style={styles.iframe}
             frameBorder="0"
             allow="xr-spatial-tracking; gyroscope; accelerometer"
